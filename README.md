@@ -27,9 +27,4 @@ Findmecourts is a comprehensive mobile application developed using Flutter that 
 
 ## Screenshots
 
-![Home Screen](screenshots/home_screen.png)
-![Booking Screen](screenshots/booking_screen.png)
-![Payment Screen](screenshots/payment_screen.png)
-
-
-
+![Findmecourts App](https://github.com/anandyadav21219/Findmecourts-App/blob/main/findmecourts_app.png?raw=true)
